@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PersonTester">
+  <component name="RunManager" selected="Application.BikeTester">
     <configuration name="BikeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BikeTester" />
       <module name="Chapter1_Homework" />
@@ -60,9 +60,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BikeTester" />
         <item itemvalue="Application.PersonTester" />
         <item itemvalue="Application.TextbookTester" />
-        <item itemvalue="Application.BikeTester" />
       </list>
     </recent_temporary>
   </component>
